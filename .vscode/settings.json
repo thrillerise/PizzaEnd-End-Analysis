@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Pizza ",
+            "database": "Pizza",
+            "username": "postgre"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "Pizza",
+            "database": "Pizza",
+            "username": "postgres",
+            "connectionTimeout": 30
+        }
+    ]
+}
